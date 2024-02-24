@@ -1,2 +1,2 @@
-# -santhitak-sides.github.io
+# santhitak-sides.github.io
 For github pages
